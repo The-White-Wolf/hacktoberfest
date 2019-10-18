@@ -1,3 +1,8 @@
+#### Name: [Karan Samani](https://github.com/kimi450)
+ - Place: Cork Ireland
+ - Bio: Comp Sci
+ - GitHub: [kimi450](https://github.com/kimi450)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
@@ -7,7 +12,7 @@
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
  - GitHub: [byteme](https://github.com/tejassateesh)
- 
+
  #### Name: [Leon Todd](https://github.com/leontodd)
  - Place: Leicester, UK
  - Bio: Computer Science @ University of Leicester
